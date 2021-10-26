@@ -7,3 +7,10 @@ b = 5
 
 x = a+b
 print("Hola mundo", x)
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+Cambio creado localmente
+he escapado al unico lugar donde el capitalismo nunca me va a alcanzar, el espacio
